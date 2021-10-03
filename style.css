@@ -110,14 +110,11 @@ thead tr:first-child th:first-child{}
 
 
 footer{
-  /* position: absolute;
-  bottom: 0; */
-  position: fixed;
-  left: 0;
+  position: absolute;
   bottom: 0;
   width:100%;
+  min-height: 75px;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  min-height: 75px;
 }
